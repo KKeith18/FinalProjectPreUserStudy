@@ -1,0 +1,60 @@
+body { 
+    padding:30px;
+}
+#selection {
+    padding: 7px;
+    margin-bottom: 30px;
+    width:300px;
+}
+
+.select_2{
+    padding-bottom: 30px;
+    margin-bottom:20px;
+}
+
+.select_3 {
+    list-style-type: none;
+    margin: 25px 0 0 0;
+    padding-bottom: 30px;
+    margin-bottom:20px;
+    text-align:center;
+  }
+  
+  .select_3 li {
+    float: left;
+  }
+  
+  input[type='button'] {
+      width:250px;
+      padding:10px;
+      border: 0 !important;
+      border-radius: 0px !important;
+    
+  }
+  .butt{
+    background-color: green;
+    border-color:green;
+  }
+  img{
+    border-radius:8px;
+
+  }
+
+  .top-left{
+    position:absolute;
+    top:50px
+  }
+  .header-1{
+    color:white;
+
+  }
+
+  hr{
+    display:block;
+    color:orange;
+    border-width:100px;
+    margin-top:auto;
+    border-style:inset;
+    top:100px;
+    
+  }
